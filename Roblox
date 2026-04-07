@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Roblox Tips Hub</title>
+  <style>
+    body {
+      font-family: Arial;
+      margin: 0;
+      background: #f4f4f4;
+    }
+
+    header {
+      background: #111;
+      color: white;
+      padding: 15px;
+      text-align: center;
+    }
+
+    nav {
+      background: #333;
+      padding: 10px;
+      text-align: center;
+    }
+
+    nav a {
+      color: white;
+      margin: 10px;
+      text-decoration: none;
+    }
+
+    .container {
+      padding: 20px;
+    }
+
+    .post {
+      background: white;
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 8px;
+    }
+
+    .ad {
+      background: #ddd;
+      padding: 20px;
+      text-align: center;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🎮 Roblox Tips Hub</h1>
+  <p>Best tips, tricks & games!</p>
+</header>
+
+<nav>
+  <a href="#">Home</a>
+  <a href="#">Tips</a>
+  <a href="#">Games</a>
+</nav>
+
+<div class="container">
+
+  <div class="post">
+    <h2>🔥 Best Roblox Games for Mobile</h2>
+    <p>Try games like Blox Fruits, Brookhaven, and Adopt Me for fun gameplay!</p>
+  </div>
+
+  <div class="post">
+    <h2>💡 How to Customize Your Avatar for Free</h2>
+    <p>Use free items in the avatar shop and join events to get rewards.</p>
+  </div>
+
+  <!-- AD SPACE -->
+  <div class="ad">
+    <p>Ad will show here</p>
+  </div>
+
+  <div class="post">
+    <h2>🚀 Beginner Tips for Roblox</h2>
+    <p>Start with easy games and learn controls before trying harder ones.</p>
+  </div>
+
+</div>
+
+</body>
+</html>
